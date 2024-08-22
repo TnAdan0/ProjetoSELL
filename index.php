@@ -267,7 +267,7 @@
    
     <nav aria-label="Top" class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
       <div class="border-b border-gray-200">
-        <div class="flex h-16 items-center">
+        <div class="flex h-16 items-center"> 
           <!-- Mobile menu toggle, controls the 'mobileMenuOpen' state. -->
           <button type="button" class="relative rounded-md bg-white p-2 text-gray-400 lg:hidden">
             <span class="absolute -inset-0.5"></span>
